@@ -2,7 +2,7 @@
 #### Documentation: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
 ### Installing Sass
 
- * You first need ruby (Mac users have it pre-installed)
+ You first need ruby (Mac users have it pre-installed)
  #### Windows
  Per the [Sass Installation Page](http://sass-lang.com/install):
 
