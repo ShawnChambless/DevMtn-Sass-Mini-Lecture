@@ -1,0 +1,21 @@
+// Sass Site
+http://sass-lang.com/
+
+// Installation
+http://sass-lang.com/install
+
+// Run from cmd line
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+sass --watch input.sass:output.css
+
+// Run sass directory
+sass --watch styles:./ --style expanded
+
+// Partials
+add _ to filename to skip compiling (used for @imports)
+
+// Gulp Site
+http://gulpjs.com/
+
+// Installation
+sudo npm i -g gulp

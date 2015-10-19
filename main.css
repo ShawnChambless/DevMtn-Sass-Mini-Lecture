@@ -1,0 +1,44 @@
+header {
+  color: red;
+  transition: 100ms color ease-in-out;
+}
+
+header:hover {
+  color: #05B8CC;
+}
+
+p {
+  color: #05B8CC;
+  transition: 100ms color ease-in-out;
+}
+
+p:hover {
+  color: red;
+}
+
+h1 {
+  color: red;
+  transition: 100ms color ease-in-out;
+  font-size: 2em;
+  transition: 100ms font-size ease-in-out;
+}
+
+h1:hover {
+  color: #05B8CC;
+}
+
+h1:hover {
+  font-size: 3em;
+}
+
+ul {
+  height: 30px;
+}
+
+ul:hover {
+  list-style-type: none;
+}
+
+ul:hover li {
+  display: inline;
+}

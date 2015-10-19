@@ -1,0 +1,19 @@
+@mixin hover($color1, $color2)
+    color: $color1
+    transition: 100ms color ease-in-out
+    &:hover
+        color: $color2
+
+
+@mixin expand()
+    +hover(red, $reallyCoolBlue)
+    font-size: 2em
+    transition: 100ms font-size ease-in-out
+    &:hover
+        font-size: 3em
+
+@mixin liMessUp()
+    &:hover
+        list-style-type: none
+        li
+            display: inline
