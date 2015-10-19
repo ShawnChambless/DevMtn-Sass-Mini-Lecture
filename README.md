@@ -3,7 +3,9 @@
 ### Installing Sass
 
  You first need ruby (Mac users have it pre-installed)
- #### Windows
+
+#### Windows
+
  Per the [Sass Installation Page](http://sass-lang.com/install):
 
  The fastest way to get Ruby on your Windows computer is to use [Ruby Installer](http://rubyinstaller.org/). It's a single-click installer that will get everything set up for you super fast.
