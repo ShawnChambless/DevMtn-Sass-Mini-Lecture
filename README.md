@@ -1,5 +1,8 @@
 # Sass/Gulp Brown Bag
-#### Documentation: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+#### Documentation
+Sass: http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+<br>
+Gulp: https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 ### Installing Sass
 
  You first need ruby (Mac users have it pre-installed)
